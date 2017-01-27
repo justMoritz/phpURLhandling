@@ -30,7 +30,8 @@ header('Content-Type: text/html; charset=utf-8');
         
         // apply logic here, for example:
         if ($lastEl === "login"){
-            redirect("../editor.php");    
+            redirect("../editor.php"); 
+            // or an equivalent action
         }
     }
 
