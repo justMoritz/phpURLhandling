@@ -42,8 +42,10 @@ will render the same as
 
     www.domain.com/page
     
-but with all your links broken
+ but again, adding another folder-structure element that could potentially break your links.
     
+    
+---    
     
 ## server configuration
 
